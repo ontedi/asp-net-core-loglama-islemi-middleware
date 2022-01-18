@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Builder;
 namespace AspNetCoreMiddleware
 {
-    public static class MiddlewareExtension
+    public static class AraKatmanExtension
     {
-        public static IApplicationBuilder UseHeaderCheckMiddleware(this IApplicationBuilder builder)
+        public static IApplicationBuilder AraKatmanlar(this IApplicationBuilder builder)
         {
             return builder.UseMiddleware<LoglamaIslemiMiddleware>();
         }

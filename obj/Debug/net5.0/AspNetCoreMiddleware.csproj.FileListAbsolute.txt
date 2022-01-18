@@ -24,7 +24,6 @@ D:\calisma-masasi\dotnetcore\ornekler\AspNetCoreMiddleware\obj\Debug\net5.0\AspN
 D:\calisma-masasi\dotnetcore\ornekler\AspNetCoreMiddleware\obj\Debug\net5.0\AspNetCoreMiddleware.TagHelpers.output.cache
 D:\calisma-masasi\dotnetcore\ornekler\AspNetCoreMiddleware\obj\Debug\net5.0\AspNetCoreMiddleware.RazorCoreGenerate.cache
 D:\calisma-masasi\dotnetcore\ornekler\AspNetCoreMiddleware\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-D:\calisma-masasi\dotnetcore\ornekler\AspNetCoreMiddleware\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\calisma-masasi\dotnetcore\ornekler\AspNetCoreMiddleware\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 D:\calisma-masasi\dotnetcore\ornekler\AspNetCoreMiddleware\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\calisma-masasi\dotnetcore\ornekler\AspNetCoreMiddleware\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -38,3 +37,4 @@ D:\calisma-masasi\dotnetcore\ornekler\AspNetCoreMiddleware\obj\Debug\net5.0\ref\
 D:\calisma-masasi\dotnetcore\ornekler\AspNetCoreMiddleware\obj\Debug\net5.0\AspNetCoreMiddleware.pdb
 D:\calisma-masasi\dotnetcore\ornekler\AspNetCoreMiddleware\obj\Debug\net5.0\AspNetCoreMiddleware.genruntimeconfig.cache
 D:\calisma-masasi\dotnetcore\ornekler\AspNetCoreMiddleware\obj\Debug\net5.0\AspNetCoreMiddleware.csproj.CopyComplete
+D:\calisma-masasi\dotnetcore\ornekler\AspNetCoreMiddleware\obj\Debug\net5.0\Razor\Views\Home\Iletisim.cshtml.g.cs

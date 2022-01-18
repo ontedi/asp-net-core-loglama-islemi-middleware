@@ -1,0 +1,77 @@
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58
+Request.Scheme: http
+Request.Host: localhost:5000
+Request.Path: /Home/Index
+Request.QueryString: 
+Tarih: 1/18/2022 11:41:58 PM
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58
+Request.Scheme: https
+Request.Host: localhost:5001
+Request.Path: /Home/Index
+Request.QueryString: 
+Tarih: 1/18/2022 11:41:58 PM
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58
+Request.Scheme: https
+Request.Host: localhost:5001
+Request.Path: /Home/Iletisim
+Request.QueryString: 
+Tarih: 1/18/2022 11:42:10 PM
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58
+Request.Scheme: https
+Request.Host: localhost:5001
+Request.Path: /css/site.css
+Request.QueryString: 
+Tarih: 1/18/2022 11:42:11 PM
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58
+Request.Scheme: https
+Request.Host: localhost:5001
+Request.Path: /lib/bootstrap/dist/css/bootstrap.min.css
+Request.QueryString: 
+Tarih: 1/18/2022 11:42:11 PM
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58
+Request.Scheme: https
+Request.Host: localhost:5001
+Request.Path: /Home/Iletisim
+Request.QueryString: ?islem=nasilsin
+Tarih: 1/18/2022 11:42:38 PM
+#### Request (BITIS) ####
+
+
+#### Request (BASLANGIC) ####
+Ip Adresi: ::1
+Tarayıcı Bilgileri: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58
+Request.Scheme: https
+Request.Host: localhost:5001
+Request.Path: /lib/bootstrap/dist/css/bootstrap.min.css
+Request.QueryString: 
+Tarih: 1/18/2022 11:42:38 PM
+#### Request (BITIS) ####
+
+
