@@ -1,3 +1,4 @@
+using System;
 using System.IO;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
@@ -23,7 +24,9 @@ namespace AspNetCoreMiddleware
                 swYazici.WriteLine("Ip Adresi: " + strIp);
                 swYazici.WriteLine("Tarayıcı Bilgileri: " + strTarayiciBilgileri);
                 swYazici.WriteLine("Adres Satiri: " + strAdresSatiri);
+                swYazici.WriteLine("Tarih: " + DateTime.Now);
                 swYazici.WriteLine("#### Request (BITIS) ####");
+                swYazici.WriteLine("\n");
             }
             await _rdIstek.Invoke(httpContext);
         }

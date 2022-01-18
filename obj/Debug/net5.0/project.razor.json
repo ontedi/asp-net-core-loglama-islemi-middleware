@@ -15639,6 +15639,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\calisma-masasi\\dotnetcore\\ornekler\\AspNetCoreMiddleware\\Views\\Home\\Iletisim.cshtml",
+      "TargetPath": "Views\\Home\\Iletisim.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\calisma-masasi\\dotnetcore\\ornekler\\AspNetCoreMiddleware\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -15646,11 +15651,6 @@
     {
       "FilePath": "d:\\calisma-masasi\\dotnetcore\\ornekler\\AspNetCoreMiddleware\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\calisma-masasi\\dotnetcore\\ornekler\\AspNetCoreMiddleware\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     }
   ],
