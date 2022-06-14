@@ -1,4 +1,4 @@
-# asp-net-core-loglama-islemi-middleware
+# Asp.Net Core ile Middleware Örneği
 .Net Core ile MiddleWare kavramını inceliyoruz. Kısaca kendisinde bahsetmek gerekirse; yapılan bir isteğe karşı üretilen sonucun arasına girme işlemidir.
 Örneğin bir sayfayı açmaya çalışıyorsunuz, bu isteği yaparken sayfadaki "şunu çalıştır, şu css dosyasını gösterme, bu javascripti çalıştır vs..." gibi müdahaleleri sağlıyor.
 
